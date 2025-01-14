@@ -16,6 +16,12 @@ This project showcases a dynamic 3D sword animation created in Blender. It utili
 ## Tools Used
 
 Blender: Primary tool for modeling, animation, and rendering.
+
 Geometry Nodes, Shader Editor, Compositor: Key tools to enhance visual appeal and technical execution.
+
 Mixamo: For Character Rigging and Animation.
 
+
+## Screenshots
+
+![Sword](https://github.com/user-attachments/assets/f72f33af-2979-4803-a35b-160b97ecbe31)
