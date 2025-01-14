@@ -25,3 +25,10 @@ Mixamo: For Character Rigging and Animation.
 ## Screenshots
 
 ![Sword](https://github.com/user-attachments/assets/f72f33af-2979-4803-a35b-160b97ecbe31)
+
+
+## Demo
+
+
+https://github.com/user-attachments/assets/441de630-77ad-44f9-b297-3c1f82125aa1
+
